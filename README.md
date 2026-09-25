@@ -23,5 +23,4 @@ To run this project locally, you need Node.js and npm installed.
 
 1. Clone the repository:
    ```sh
- git clone https://github.com/ckonkwane-dev/smart-ai-productivity-assistant.git
-cd smart-ai-productivity-assistant
+   git clone https://github.com/ckonkwane-dev/smart-ai-productivity-assistant.git
