@@ -4,6 +4,7 @@
 The AI Workplace Productivity Assistant is a modern, responsive web application designed to help professionals automate everyday workplace tasks. Built as a single, integrated dashboard, it leverages AI to streamline email writing, meeting summarization, task planning, and research. 
 
 **Live App:** [https://smart-ai-productivity-assistant.lovable.app](https://smart-ai-productivity-assistant.lovable.app)
+**Testing Document:** [View Project Testing Document](Loveable%20chat%20logs%20and%20Function%20test.docx)
 
 ## Features Implemented
 The application includes the following AI-powered features accessible via a sidebar navigation:
